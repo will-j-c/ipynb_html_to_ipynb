@@ -1,0 +1,4 @@
+htmlToJSON = () => {
+
+}
+module.exports = htmlToJSON;
