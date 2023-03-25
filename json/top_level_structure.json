@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "kernelspec": {
+      "display_name": "python_lab_binomial_trees_in_option_pricin-eJmfvNPU",
+      "language": "python",
+      "name": "python3"
+    },
+    "language_info": {
+      "codemirror_mode": {
+        "name": "ipython",
+        "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.10.6"
+    },
+    "orig_nbformat": 4,
+    "vscode": {
+      "interpreter": {
+        "hash": "9255e09353f91e81d636b7c6d237b55d9e72ce8ca01493569d36ae5e9eae93e5"
+      }
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 2,
+  "cells": []
+}

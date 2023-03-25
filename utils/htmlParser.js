@@ -1,4 +1,0 @@
-htmlToJSON = () => {
-
-}
-module.exports = htmlToJSON;
